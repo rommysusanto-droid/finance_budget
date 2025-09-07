@@ -152,3 +152,4 @@ if uploaded_file:
                         st.markdown(f"**👤 You:** {msg['content']}")
                     else:
                         st.markdown(f"**🤖 Copilot:** {msg['content']}")
+
